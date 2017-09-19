@@ -1,0 +1,26 @@
+{
+  "name": "react-native-roots",
+  "version": "0.0.3",
+  "description": "react native root view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeepeng/react-native-roots.git"
+  },
+  "keywords": [
+    "react-native-roots"
+  ],
+  "author": "Jeepeng",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Jeepeng/react-native-roots/issues"
+  },
+  "homepage": "https://github.com/Jeepeng/react-native-roots#readme",
+  "dependencies": {
+    "invariant": "^2.2.2",
+    "react-static-container": "^1.0.1"
+  }
+}

@@ -8,7 +8,10 @@
   ...
 </View>
 ```
-
+# Installation
+```shell
+npm install react-native-roots --save
+```
 
 # Usage
 ```js

@@ -1,6 +1,6 @@
 {
   "name": "react-native-roots",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "react native root view",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Jeepeng/react-native-roots#readme",
   "dependencies": {
-    "invariant": "^2.2.2",
-    "react-static-container": "^1.0.1"
+    "invariant": "^2.2.4",
+    "react-static-container": "^1.0.2"
   }
 }
